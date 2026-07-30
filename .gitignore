@@ -1,0 +1,5 @@
+.env
+package-lock.json
+userData.json
+node_modules
+
