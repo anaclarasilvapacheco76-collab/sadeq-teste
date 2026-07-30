@@ -1,0 +1,10 @@
+{        
+"successtest": {
+  "usuario": "admin",
+  "senha":"gestao2026"
+} ,
+    "failtest":{
+     "usuario": "iuuh",
+      "senha" :"iduikioo"
+  }
+}
